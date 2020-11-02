@@ -1,5 +1,5 @@
 {
-  "swVersion": "1.2",
+  "swVersion": "1.3",
   "swMandatory": false,
   "swRelease": "2020-04-19T18:38:56Z",
   "swURL": "https://dl.dropboxusercontent.com/s/t4gzagsb1phdm5z/IeC122-ControleVersao.ino.esp32.bin",
